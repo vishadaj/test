@@ -1,1 +1,11 @@
 this is file 1.
+<html>
+<head>
+<title> New document </title>
+</head>
+<body>
+<h1> Hello friends </h1>
+</body>
+</html>
+:wq
+
